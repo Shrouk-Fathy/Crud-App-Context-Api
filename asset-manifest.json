@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Crud-App-Context-Api/static/css/main.cce7b138.css",
+    "main.js": "/Crud-App-Context-Api/static/js/main.f816d209.js",
+    "static/js/453.d73d5c64.chunk.js": "/Crud-App-Context-Api/static/js/453.d73d5c64.chunk.js",
+    "index.html": "/Crud-App-Context-Api/index.html",
+    "main.cce7b138.css.map": "/Crud-App-Context-Api/static/css/main.cce7b138.css.map",
+    "main.f816d209.js.map": "/Crud-App-Context-Api/static/js/main.f816d209.js.map",
+    "453.d73d5c64.chunk.js.map": "/Crud-App-Context-Api/static/js/453.d73d5c64.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cce7b138.css",
+    "static/js/main.f816d209.js"
+  ]
+}
