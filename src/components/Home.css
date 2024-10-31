@@ -1,0 +1,19 @@
+h3{
+    padding: 60px;
+    background-color: #eee;
+}
+.btn{
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.input{
+    border-radius: 20px;
+    padding: 10px;
+    width: 200px;
+    border: 1px solid #ccc;
+    outline: none;
+    &::placeholder{
+        font-size: 15px;
+        text-transform: lowercase;
+    }
+}
